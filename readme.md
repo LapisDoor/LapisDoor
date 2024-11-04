@@ -1,3 +1,7 @@
+## About LapisDoor
+Hi! I'd Like Programming Things.
+Like Roblox Scripting, Python and somethings.
+
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=py,robloxstudio,github,discord,bots,css,html)](https://skillicons.dev)
 
